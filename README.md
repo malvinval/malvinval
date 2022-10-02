@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Malvin Valerian.</a></h1>
 <h3 align="center">A passionate Web Developer from Indonesia 🇮🇩</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=malvinval&theme=jolly&show_icons=true" align="right">
+<span align="right">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=malvinval&theme=jolly&show_icons=true" align="right">
+</span>
 
 📝 Undergraduate informatics student
 
