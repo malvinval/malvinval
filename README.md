@@ -6,6 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=malvinval&theme=jolly&show_icons=true" align="right">
 </span>
 
+&ensp;
+
 📝 Undergraduate informatics student
 
 🌱 Developing SPA / SSR websites
