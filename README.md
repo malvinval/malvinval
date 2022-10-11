@@ -18,6 +18,4 @@
 
 🔭 Looking for a web developer internship program
 
-🌱 Currently learning web security
-
 <p align="left"> <a href="https://twitter.com/valulumn" target="blank"><img src="https://img.shields.io/twitter/follow/valulumn?logo=twitter&style=for-the-badge" alt="Malvin Valerian Twitter Account" /></a> </p>
