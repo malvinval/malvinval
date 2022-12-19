@@ -8,7 +8,7 @@ I'm Malvin Valerian, a web developer.
 
 - 🌱 Developing SPA / SSR websites
 
-- &#9881; Fav. stack : Vue.js, Inertia.js, Laravel, Tailwind
+- &#9881; Fav. stack : React.js, Inertia.js, Laravel, Tailwind
 
 - 🔭 Looking for a web developer internship program
 
