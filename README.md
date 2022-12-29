@@ -13,7 +13,7 @@
 <a href="https://github.com/malvinval"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 <a href="https://instagram.com/malvinn.val"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/malvinval"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-<a href="https://github.com/eternalfyto"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://twitter.com/eternalfyto"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 ### Language and Tools
 ![JavaScript](https://img.shields.io/badge/Javascript-222222.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow)
