@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-<p style="text-align:center">I'm a nerd who currently learning website and mobile apps development.</p>
+<p style="text-align:center">I'm currently playing in the fields of:</p>
+
+- Fullstack Web Development
+- C++ Development
+- Penetration Testing
 
 ---
 
 ### About me
-- Undergraduate informatics student
-- Frontend Web Developer Intern at <a href="https://www.linkedin.com/company/ouseanindonesia">PT. Ousean Global Digital</a>
-- Laboratory Assistant at <a href="https://www.unsika.ac.id">Universitas Singaperbangsa Karawang</a>
+- Undergraduate Informatics Student and Laboratory Assistant at <a href="https://www.unsika.ac.id">Universitas Singaperbangsa Karawang</a>
+- Frontend Web Developer Intern at <a href="https://www.linkedin.com/company/ouseanindonesia">PT. Ousean Global Digital</a> (Dec 2022 - Mar 2023)
+- Contributor of <a href="https://www.github.com/bellshade">Bellshade</a>
 
 ### Let's connect!
 <a href="https://github.com/malvinval"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
@@ -23,7 +27,7 @@
 ![ReactJS](https://img.shields.io/badge/React-222222.svg?style=for-the-badge&logo=react&logoColor=blue)
 ![VueJS](https://img.shields.io/badge/Vue-222222.svg?style=for-the-badge&logo=vuedotjs&logoColor=green)
 ![Laravel](https://img.shields.io/badge/Laravel-222222.svg?style=for-the-badge&logo=Laravel&logoColor=red)
-![Flutter](https://img.shields.io/badge/Flutter-222222.svg?style=for-the-badge&logo=flutter&logoColor=blue)
+![Flutter](https://img.shields.io/badge/C++-222222.svg?style=for-the-badge&logo=CPlusPlus&logoColor=blue)
 
 <!-- stats -->
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=malvinval&theme=jolly&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=malvinval&theme=jolly&show_icons=true))
