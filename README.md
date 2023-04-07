@@ -19,15 +19,18 @@
 <a href="https://www.linkedin.com/in/malvinval"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="https://twitter.com/eternalfyto"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
-### Language and Tools
-![JavaScript](https://img.shields.io/badge/Javascript-222222.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![PHP](https://img.shields.io/badge/PHP-222222.svg?style=for-the-badge&logo=PHP&logoColor=white)
+### Development Tools
+
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-222222.svg?style=for-the-badge&logo=tailwindcss&logoColor=lightskyblue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20Framework-222222.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)
 ![ReactJS](https://img.shields.io/badge/React-222222.svg?style=for-the-badge&logo=react&logoColor=blue)
 ![VueJS](https://img.shields.io/badge/Vue-222222.svg?style=for-the-badge&logo=vuedotjs&logoColor=green)
 ![Laravel](https://img.shields.io/badge/Laravel-222222.svg?style=for-the-badge&logo=Laravel&logoColor=red)
-![Flutter](https://img.shields.io/badge/C++-222222.svg?style=for-the-badge&logo=CPlusPlus&logoColor=blue)
+![Mysql](https://img.shields.io/badge/Mysql-222222.svg?style=for-the-badge&logo=Mysql&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-222222.svg?style=for-the-badge&logo=Git&logoColor=red)
+![Github](https://img.shields.io/badge/Github-222222.svg?style=for-the-badge&logo=Github&logoColor=black)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malvinval&langs_count=20&layout=compact)](https://github.com/malvinval/github-readme-stats)
 
 <!-- stats -->
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=malvinval&theme=jolly&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=malvinval&theme=jolly&show_icons=true))
