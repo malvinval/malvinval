@@ -30,9 +30,13 @@
 ![Git](https://img.shields.io/badge/Git-222222.svg?style=for-the-badge&logo=Git&logoColor=red)
 ![Github](https://img.shields.io/badge/Github-222222.svg?style=for-the-badge&logo=Github&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malvinval&langs_count=20&layout=compact)](https://github.com/malvinval/github-readme-stats)
-
-<!-- stats -->
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=malvinval&theme=jolly&show_icons=true)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=malvinval&theme=jolly&show_icons=true))
+<div>
+  <a href="https://github.com/malvinval" style="display:inline-block">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinval&langs_count=20&layout=compact" />
+  </a>
+  <a href="https://github.com/malvinval" style="display:inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=malvinval&show_icons=true&theme=jolly" alt="GitHub Stats" />
+  </a>
+</div>
 
 [![@malvinval's Holopin board](https://holopin.io/api/user/board?user=malvinval)](https://holopin.io/@malvinval)
