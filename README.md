@@ -32,7 +32,7 @@
 
 <div>
   <a href="https://github.com/malvinval" style="display:inline-block">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinval&langs_count=20&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinval&langs_count=20&layout=compact&hide=css,html" />
   </a>
   <a href="https://github.com/malvinval" style="display:inline-block;">
     <img src="https://github-readme-stats.vercel.app/api?username=malvinval&show_icons=true&theme=jolly" alt="GitHub Stats" />
