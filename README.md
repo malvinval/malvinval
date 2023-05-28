@@ -35,7 +35,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinval&langs_count=20&layout=compact&hide=css,html" />
   </a>
   <a href="https://github.com/malvinval" style="display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=malvinval&show_icons=true&theme=jolly" alt="GitHub Stats" />
+    <img src="https://64.media.tumblr.com/0b59866d4f23e8ab39804c5a7968725a/f1bfad800d8ac6c6-2c/s1280x1920/46ea723ba1703102f52abc356bc55f8c33ed0e48.gifv" alt="gif" />
   </a>
 </div>
 
