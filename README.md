@@ -8,11 +8,6 @@
 
 ---
 
-### About me
-- Undergraduate Informatics Student and Laboratory Assistant at <a href="https://www.unsika.ac.id">Universitas Singaperbangsa Karawang</a>
-- Frontend Web Developer Intern at <a href="https://www.linkedin.com/company/ouseanindonesia">PT. Ousean Global Digital</a> (Dec 2022 - Mar 2023)
-- Contributor of <a href="https://www.github.com/bellshade">Bellshade</a>
-
 ### Let's connect!
 <a href="https://github.com/malvinval"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 <a href="https://instagram.com/malvinn.val"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
