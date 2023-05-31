@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<p style="text-align:center">I'm currently playing in the fields of:</p>
+<p style="text-align:center">Interests</p>
 
 - Fullstack Web Development
-- C++ Development
+- C/C++ and ASM Development
 - Penetration Testing
 
 ---
