@@ -1,4 +1,4 @@
-### Interests 👋
+### Interests
 
 - Fullstack Web Development
 - C/C++ and ASM Development
