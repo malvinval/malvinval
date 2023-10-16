@@ -30,4 +30,4 @@
   </a>
 </div>
 
-[![@malvinval's Holopin board](https://holopin.io/api/user/board?user=malvinval)](https://holopin.io/@malvinval)
+[![@malvinval's Holopin badges](https://holopin.me/malvinval)](https://holopin.io/@malvinval)
