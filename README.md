@@ -1,8 +1,4 @@
-### Interests
-
-- Fullstack Web Development
-- C/C++ and ASM Development
-- Penetration Testing
+<img src="./GITHUB-WELCOME.gif" alt="gif" />
 
 ---
 
