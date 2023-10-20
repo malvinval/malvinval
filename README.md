@@ -18,6 +18,8 @@
 ![Mysql](https://img.shields.io/badge/Mysql-222222.svg?style=for-the-badge&logo=Mysql&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-222222.svg?style=for-the-badge&logo=Git&logoColor=red)
 ![Github](https://img.shields.io/badge/Github-222222.svg?style=for-the-badge&logo=Github&logoColor=black)
-
+![Golang](https://img.shields.io/badge/Golang-222222.svg?style=for-the-badge&logo=Go&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-222222.svg?style=for-the-badge&logo=Cplusplus&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/Postgresql-222222.svg?style=for-the-badge&logo=Postgresql&logoColor=blue)
 
 [![@malvinval's Holopin badges](https://holopin.me/malvinval)](https://holopin.io/@malvinval)
