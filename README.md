@@ -2,7 +2,7 @@
 
 <div>
   <a style="display:inline-block">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinval&langs_count=20&layout=compact&hide=css,html&theme=jolly&hide_border=true" width="275" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malvinval&langs_count=20&layout=compact&hide=css,html&theme=jolly&hide_border=true" width="300" />
   </a>
   <a style="display:inline-block;">
     <img src="https://github-readme-stats.vercel.app/api?username=malvinval&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=nightowl" width="530" alt="gif" />
