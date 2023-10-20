@@ -7,9 +7,6 @@
   <a style="display:inline-block;">
     <img src="https://github-readme-stats.vercel.app/api?username=malvinval&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=nightowl" width="377" alt="gif" />
   </a>
-  <a style="display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=malvinval&hide=stars,commits,prs,issues,contribs&count_private=true&show_icons=true&hide_border=true&custom_title=Malvin's+Github+Rank&theme=material-palenight" width="350" alt="gif" />
-  </a>
 </div>
 
 
