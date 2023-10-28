@@ -1,4 +1,4 @@
-<img src="./GITHUB-WELCOME.gif" alt="gif" />
+<!-- <img src="./GITHUB-WELCOME.gif" alt="gif" />
 
 ---
 
@@ -26,4 +26,4 @@
   </a>
 </div>
 
-[![@malvinval's Holopin badges](https://holopin.me/malvinval)](https://holopin.io/@malvinval)
+[![@malvinval's Holopin badges](https://holopin.me/malvinval)](https://holopin.io/@malvinval) -->
